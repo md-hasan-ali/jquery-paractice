@@ -1,0 +1,9 @@
+.ancestors * {
+    display:block;
+    border:5px solid gray;
+    padding:15px 15px;
+    margin:15px;
+    color:#999;
+
+
+}

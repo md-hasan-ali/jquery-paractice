@@ -1,0 +1,27 @@
+.hasan{
+    width:500px;
+    background-color: darkslateblue;
+    text-align:center;
+    margin:0 auto;
+    font-size:25px;
+    padding:15px;
+    color:#fff;
+    text-transform:capitalize;
+    position: relative;
+}
+.lorem{
+    width:500px;
+    background-color: rgb(49, 23, 218);
+    text-align:center;
+    margin:0 auto;
+    font-size:20px;
+    padding:15px;
+    display:none;
+    overflow:hidden;
+}
+button{
+    font-size:50px;
+    text-transform: capitalize;
+    
+    
+}
